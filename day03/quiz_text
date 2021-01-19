@@ -1,0 +1,19 @@
+What does the following code evaluate to? float(10)
+
+What does the following code evaluate to? int(50.3)
+
+What python method allows for removal of an item in a list? 
+
+Is a tuple immutable?
+
+Is the following line of code valid? x, y, z = 2, 12, '8'
+
+With regard question 5, what will z * x return?  x, y, z = 2, 12, '8'
+
+'//' , '*', '|' , and '%' are all examples of ____________ 
+
+Consider this code: number_list = [10, 11, 12, 13, 14, 15] What number will be replaced if the following code is run? number_list[3] = 7 
+
+What is the following code an example of?  employees = {'emp_a': 'IT', 'emp_b': 'Finance', 'emp_c': 'advertising'}
+
+What method is used to remove the leading and trailing whitespace in a string?  x = '     test     ' 
